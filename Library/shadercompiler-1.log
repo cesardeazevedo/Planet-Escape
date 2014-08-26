@@ -1,0 +1,48 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1590906456
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1215 outsize=1297 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5204 outsize=1507 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5204 outsize=987 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2809 outsize=1385 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2809 outsize=1116 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2809 outsize=1094 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2809 outsize=943 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=1216 outsize=1298 ok=1
+Cmd: preprocess
+  insize=1243 outsize=1325 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5204 outsize=1507 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5204 outsize=987 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2809 outsize=1385 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2809 outsize=1116 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2809 outsize=1094 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2809 outsize=943 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=1910 outsize=1910 ok=1
+Cmd: preprocess
+  insize=1907 outsize=1907 ok=1
+Cmd: preprocess
+  error: 2 plat 12 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=1977 outsize=1977 ok=0
+Cmd: preprocess
+  error: 2 plat 12 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=1979 outsize=1979 ok=0
+Cmd: preprocess
+  insize=1970 outsize=1970 ok=1
+End of pipe
+
+Quitting shader compiler process
