@@ -6,7 +6,7 @@ Planet Escape is a project made for Ludum Dare 30 Competition
 ![ScreenShot](http://i.cubeupload.com/rhxh9C.png)
 
 #LudumDare
-[Ludum Dare](http://www.ludumdare.com/compo) is an accelerated game development Event. So, this was made in 48 hours, based on a theme suggested by community
+[Ludum Dare](http://www.ludumdare.com/compo) is an accelerated game development Event. So, this was made in 48 hours, based on theme "Connected Worlds" suggested by community
 
 #TimeLapse
 * [TimeLapse Video](https://www.youtube.com/watch?v=QmDw4suLWck)
