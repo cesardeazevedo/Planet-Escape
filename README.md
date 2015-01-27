@@ -19,5 +19,5 @@ Planet Escape is a project made for Ludum Dare 30 Competition
 * Spacebar for shoot.
 
 #Requirements
-* [Unity3D 4.6](http://unity3d.com/unity/beta/4.6) for new UI system (BETA)
+* [Unity3D 4.6](https://unity3d.com/unity/download)
 
